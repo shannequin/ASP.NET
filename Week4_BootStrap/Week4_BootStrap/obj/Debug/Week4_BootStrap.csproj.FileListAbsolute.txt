@@ -1,0 +1,9 @@
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\bin\Week4_BootStrap.dll.config
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\bin\Week4_BootStrap.dll
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\bin\Week4_BootStrap.pdb
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\obj\Debug\Week4_BootStrap.csprojResolveAssemblyReference.cache
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\obj\Debug\Week4_BootStrap.csproj.CoreCompileInputs.cache
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\obj\Debug\Week4_BootStrap.dll
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week4\Week4_BootStrap\Week4_BootStrap\obj\Debug\Week4_BootStrap.pdb

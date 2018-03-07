@@ -1,0 +1,9 @@
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\bin\Module2.dll.config
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\bin\Module2.dll
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\bin\Module2.pdb
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\obj\Debug\Module2.csprojResolveAssemblyReference.cache
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\obj\Debug\Module2.csproj.CoreCompileInputs.cache
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\obj\Debug\Module2.dll
+C:\Users\Shannon\Documents\NSCC\CITC2312 Web Dev\Week2\Module2\Module2\obj\Debug\Module2.pdb
